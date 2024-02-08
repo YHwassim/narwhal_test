@@ -7,7 +7,7 @@
     "repo": {
         "name": "narwhal_test",
         "url": "https://github.com/YHwassim/narwhal_test.git",
-        "branch": "master"
+        "branch": "main"
     },
     "instances": {
         "type": "m5d.8xlarge",
