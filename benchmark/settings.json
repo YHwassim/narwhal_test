@@ -1,12 +1,12 @@
 {
     "key": {
-        "name": "aws",
-        "path": "/Users/asonnino/.ssh/aws.pem"
+        "name": "aws2",
+        "path": "/home/wassim/.ssh/aws2"
     },
     "port": 5000,
     "repo": {
-        "name": "narwhal",
-        "url": "https://github.com/asonnino/narwhal",
+        "name": "narwhal_test",
+        "url": "https://github.com/YHwassim/narwhal_test.git",
         "branch": "master"
     },
     "instances": {
