@@ -6,7 +6,7 @@
     "port": 5000,
     "repo": {
         "name": "narwhal_test",
-        "url": "https://github.com/YHwassim/narwhal_test",
+        "url": "https://github.com/YHwassim/narwhal_test.git",
         "branch": "main"
     },
     "instances": {
